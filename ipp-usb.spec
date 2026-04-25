@@ -6,13 +6,13 @@
 Summary:	IPP-over-USB - driverless IPP printing on USB-connected printers
 Summary(pl.UTF-8):	IPP po USB - drukowanie przez IPP na drukarkach podłączonych przez USB bez sterownika
 Name:		ipp-usb
-Version:	0.9.30
+Version:	0.9.31
 Release:	1
 License:	BSD
 Group:		Applications/Printing
 #Source0Download: https://github.com/OpenPrinting/ipp-usb/tags
 Source0:	https://github.com/OpenPrinting/ipp-usb/archive/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	f94cefc219ecacb32db9e6131afc35d3
+# Source0-md5:	93d9ee808b2e7272de4288df8ed7bf69
 URL:		https://github.com/OpenPrinting/ipp-usb
 BuildRequires:	avahi-compat-libdns_sd-devel
 BuildRequires:	avahi-devel
